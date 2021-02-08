@@ -1,5 +1,5 @@
 # Watch the project online
-[Vet appointment](https://app.netlify.com/sites/kind-joliot-1cb785/overview)
+[Vet appointment](https://kind-joliot-1cb785.netlify.app/)
 
 This is a project created with React technology, bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
